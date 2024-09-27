@@ -1,0 +1,32 @@
+.home {
+    text-align: center;
+  }
+  
+  .home h1 {
+    margin-bottom: 20px;
+  }
+  
+  .home ul {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    list-style: none;
+  }
+  
+  .home ul li {
+    background-color: #007bff;
+    padding: 10px 15px;
+    border-radius: 4px;
+    color: white;
+  }
+  
+  .home ul li:hover {
+    background-color: #0056b3;
+  }
+  
+  .home h2 {
+    color: darkgreen;
+    margin: 20px 0;
+  }
+  
+  

@@ -1,0 +1,17 @@
+.not-found {
+    text-align: center;
+    padding: 50px;
+  }
+  
+  .not-found h1 {
+    margin-bottom: 20px;
+  }
+  
+  .not-found a {
+    color: #007bff;
+  }
+  
+  .not-found a:hover {
+    text-decoration: underline;
+  }
+  

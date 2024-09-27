@@ -1,0 +1,39 @@
+.browse-books {
+    padding: 20px;
+  }
+  
+  .browse-books h1 {
+    margin-bottom: 20px;
+  }
+  
+  .browse-books input {
+    margin-bottom: 20px;
+    padding: 5px;
+    width: 100%;
+    max-width: 400px;
+  }
+  
+  .browse-books ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .browse-books li {
+    margin-bottom: 10px;
+    background-color: #f1f1f1;
+    padding: 10px;
+    border-radius: 4px;
+  }
+  
+  .browse-books li:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .browse-books li a {
+    color: #007bff;
+  }
+  
+  .browse-books li a:hover {
+    text-decoration: underline;
+  }
+  
