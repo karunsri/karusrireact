@@ -1,0 +1,54 @@
+.app {
+  max-width: 500px;
+  margin: 0 auto;
+  font-family: Arial, sans-serif;
+  box-sizing: border-box;
+}
+
+header {
+  text-align: center;
+  background-color: antiquewhite;
+  padding: 0px;
+  color:darkblue; 
+  text-shadow: #5c67b7;
+  margin-bottom: 10px;
+  border: 1px solid palevioletred;
+}
+
+input[type='text'] {
+  padding: 10px;
+  margin-right: 10px;
+  width: calc(100% - 120px);
+}
+
+button {
+  background-color: lightblue;
+  width: 80px;
+  color:black;
+  padding: 5px;
+  border-radius: 5px;
+}
+button:hover{
+  background-color: lightseagreen;
+  color: white;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: lightgray;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+li div {
+  margin-right: 10px;
+}
